@@ -1,0 +1,19 @@
+body{
+    font-family:'Emblema One', cursive;;
+    background-color: gainsboro;
+}
+h1{
+    font-size: 55px;
+}
+.name-highlight{
+    color: rgba(255, 102, 0, 0.918);
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+img{
+    width: 100%;
+}
